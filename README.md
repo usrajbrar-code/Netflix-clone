@@ -4,7 +4,7 @@ A responsive **Netflix Landing Page Clone** built using **HTML** and **CSS**. Th
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** *Add your GitHub Pages or Netlify link here* 
+🔗 **Live Website:**  https://usrajbrar-code.github.io/Netflix-clone/
 
 ## ✨ Features
 
